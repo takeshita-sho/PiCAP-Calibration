@@ -1,0 +1,1 @@
+Calibration of Protein interaction of CArbohydrate Predictor (PiCAP). PiCAP is described in [Predictions from Deep Learning Propose Substantial Protein-Carbohydrate Interplay](https://doi.org/10.1101/2025.03.07.641884). The goal of calibrating is so that PiCAP produces values that are more representative of probabilities.
